@@ -6,7 +6,7 @@
 
 **Address:** São Paulo, SP, Brazil <br/>
 **Phone:** +55 11 95802-5289 <br/>
-**Email:** <mailto:contato@arthuralbuquerque.com.br> <br/>
+**Email:** (contato@arthuralbuquerque.com.br)[mailto:contato@arthuralbuquerque.com.br] <br/>
 **Portfolio:** <https://arthuralbuquerque.com.br> <br/>
 **LinkedIn:** <https://linkedin.com/in/arthuralbuquerque-com-br>
 
